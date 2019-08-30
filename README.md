@@ -10,3 +10,6 @@ version 1.0 features:
 3) Print It! button to output PRN to destination IP
 4) Enable LPR button. This button called a command window to install the LPR Port Monitor server using the DISM command. 
    This feature requires that the program is run as an administrator as the command requires elevated privileges 
+
+
+Distributed under the GNU GENERAL PUBLIC LICENSE
